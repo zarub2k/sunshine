@@ -25,6 +25,9 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 
+/**
+ * Detail activity responsible to show the details view
+ */
 public class DetailActivity extends AppCompatActivity {
 
     @Override
