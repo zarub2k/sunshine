@@ -60,6 +60,9 @@ public class SunshileWatchFace extends CanvasWatchFaceService {
         return new Engine();
     }
 
+    /**
+     * Enginer handler
+     */
     private static class EngineHandler extends Handler {
         private final WeakReference<SunshileWatchFace.Engine> mWeakReference;
 
