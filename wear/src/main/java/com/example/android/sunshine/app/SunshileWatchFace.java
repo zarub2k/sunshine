@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.cloudskol.wear;
+package com.example.android.sunshine.app;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -32,6 +32,8 @@ import android.support.wearable.watchface.CanvasWatchFaceService;
 import android.support.wearable.watchface.WatchFaceStyle;
 import android.text.format.Time;
 import android.view.SurfaceHolder;
+
+import com.cloudskol.app.R;
 
 import java.lang.ref.WeakReference;
 import java.util.TimeZone;
