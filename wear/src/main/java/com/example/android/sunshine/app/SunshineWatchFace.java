@@ -65,7 +65,7 @@ import java.util.concurrent.TimeUnit;
  * low-bit ambient mode, the text is drawn without anti-aliasing in ambient mode.
  */
 
-public class SunshineWatchFaceService extends CanvasWatchFaceService {
+class SunshineWatchFaceService extends CanvasWatchFaceService {
     private static String TAG = SunshineWatchFaceService.class.getSimpleName();
 
     private static final Typeface NORMAL_TYPEFACE =

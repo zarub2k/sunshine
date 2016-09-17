@@ -1,6 +1,7 @@
 package com.example.android.sunshine.app;
 
 import android.content.res.Resources;
+import android.support.annotation.NonNull;
 
 import com.cloudskol.app.R;
 
